@@ -18,7 +18,7 @@ A modern, minimalistic web application for real-time satellite tracking with int
 
 ## 🚀 Live Demo
 
-**[Launch SatTank →](https://carbform.github.io/carbsat)**
+**[Launch CarbSat →](https://carbform.github.io/carbsat)**
 
 ## 🖥️ Screenshots
 
