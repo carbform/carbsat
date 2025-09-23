@@ -132,6 +132,5 @@ This project is licensed under the Unlicense License - see the [LICENSE](LICENSE
 ---
 
 <div align="center">
-  <strong>Made with ❤️ in India 🇮🇳</strong><br>
   <em>Version 0.2 (Beta) | Star ⭐ this repo if you find it useful!</em>
 </div>
