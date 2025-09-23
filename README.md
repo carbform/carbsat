@@ -1,4 +1,4 @@
-# 🛰️ SatTank
+# 🛰️ CarbSat
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://carbform.github.io/carbsat)
 [![License](https://img.shields.io/badge/License-Unlicense-blue.svg)](LICENSE)
@@ -126,8 +126,8 @@ This project is licensed under the Unlicense License - see the [LICENSE](LICENSE
 
 ## 👨‍💻 Authors
 
-- **[Priyansu Tank](https://pbtank.github.io/Tank_Priyansu/)**
 - **[Carbform](https://github.com/carbform)**
+- **[Priyansu Tank](https://pbtank.github.io/Tank_Priyansu/)**
 
 ---
 
